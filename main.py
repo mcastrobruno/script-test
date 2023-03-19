@@ -1,1 +1,6 @@
-print('Hello Gabriel.')
+
+name = input("Qual o seu nome?")
+
+print(f'Hello {name}.')
+
+
